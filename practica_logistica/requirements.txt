@@ -1,0 +1,6 @@
+streamlit
+pymongo
+pydantic
+ollama
+python-dotenv
+pandas
